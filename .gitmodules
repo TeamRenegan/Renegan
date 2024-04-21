@@ -1,0 +1,6 @@
+[submodule "ReneganAI"]
+	path = ReneganAI
+	url = https://github.com/TeamRenegan/ReneganAI
+[submodule "Backend-FastAPI"]
+	path = Backend-FastAPI
+	url = https://github.com/TeamRenegan/Backend-FastAPI
