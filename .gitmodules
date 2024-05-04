@@ -4,3 +4,12 @@
 [submodule "Backend-FastAPI"]
 	path = Backend-FastAPI
 	url = https://github.com/TeamRenegan/Backend-FastAPI
+[submodule "App-User"]
+	path = App-User
+	url = https://github.com/TeamRenegan/App-User.git
+[submodule "App-Police"]
+	path = App-Police
+	url = https://github.com/TeamRenegan/App-Police.git
+[submodule "Backend-Mongo-Express"]
+	path = Backend-Mongo-Express
+	url = https://github.com/TeamRenegan/Backend-Mongo-Express.git
