@@ -1,6 +1,6 @@
 # Renegan - Geo-Tagging Private Cameras
 
-![Renegan](https://github.com/TeamRenegan/RJPOLICE_HACK_1671_Renegan_6/assets/50258606/52813258-7af2-4263-a953-928483da0772)
+![Renegan](https://github.com/TeamRenegan/Renegan/assets/83419951/6341b975-6ce1-48c0-9632-79758a08c23c)
 
 ---
 
