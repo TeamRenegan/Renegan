@@ -100,10 +100,11 @@ Stay tuned for updates, and let's build a safer world together!
 
 ---
 
+<!-- >
 ## Acknowledgments
 
 Special thanks to Rajasthan Police for giving us the opportunity to work on such project.
-
+<-->
 ## Team Renegan
 
 - [Ankit Patne](https://github.com/ankitpatne)
