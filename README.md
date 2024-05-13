@@ -94,13 +94,27 @@ Stay tuned for updates, and let's build a safer world together!
 | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
 | <img width="394" alt="CreatePost" src="https://github.com/TeamRenegan/Renegan/assets/83419951/d83a85e3-a1de-405a-afb1-53aca76d5126"> | <img width="394" alt="CameraRegistration" src="https://github.com/TeamRenegan/Renegan/assets/83419951/c6ecc6c2-8c4e-40b1-9f5b-4e0cdcb44dec"> | <img width="394" alt="Notifications" src="https://github.com/TeamRenegan/Renegan/assets/83419951/f94eaccc-f5e3-44d8-93ba-d574bde7865d" /> |
 
-|           <p style="width: 33.33%; display: inline-block; text-align: center; margin: 0px; padding: 0px;">Camera Details</p>            |            <p style="width: 33.33%; display: inline-block; text-align: center; margin: 0px; padding: 0px;">Live Stream</p>             |             <p style="width: 33.33%; display: inline-block; text-align: center; margin: 0px; padding: 0px;">Alerts</p>             |
-| :-------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
-| <img width="394" alt="CameraDetails" src="https://github.com/TeamRenegan/Renegan/assets/83419951/0f078b32-abe9-4b01-b599-1f73d9c6f05a"> | <img width="394" alt="LiveStream" src="https://github.com/TeamRenegan/Renegan/assets/83419951/64a8f302-0623-4ba9-9cbd-cec6330d1fa6" /> | <img width="394" alt="Alerts" src="https://github.com/TeamRenegan/Renegan/assets/83419951/4586d0b8-652d-4575-be63-5b8801aebe67" /> |
+|           <p style="width: 33.33%; display: inline-block; text-align: center; margin: 0px; padding: 0px;">Camera Details</p>            |       
+| :-------------------------------------------------------------------------------------------------------------------------------------: |
+| <img width="394" alt="CameraDetails" src="https://github.com/TeamRenegan/Renegan/assets/83419951/0f078b32-abe9-4b01-b599-1f73d9c6f05a"> |
+
+
+<p style="width: 33.33%; display: inline-block; text-align: center; margin: 0px; padding: 0px;">Live Stream: </p> 
+
+https://github.com/TeamRenegan/Renegan/assets/50258606/5a355392-c3d3-4951-8953-d6ab7d361870
+
+<p style="width: 33.33%; display: inline-block; text-align: center; margin: 0px; padding: 0px;">Alerts: </p> 
+
+
+https://github.com/TeamRenegan/Renegan/assets/50258606/09ccdb5a-c070-43f5-9b68-eaa114b7ece2
+
+
+
 
 ---
 
 <!-- >
+| <img width="394" alt="CameraDetails" src="https://github.com/TeamRenegan/Renegan/assets/83419951/0f078b32-abe9-4b01-b599-1f73d9c6f05a"> | <img width="394" alt="LiveStream" src="https://github.com/TeamRenegan/Renegan/assets/83419951/64a8f302-0623-4ba9-9cbd-cec6330d1fa6" /> | <img width="394" alt="Alerts" src="https://github.com/TeamRenegan/Renegan/assets/83419951/4586d0b8-652d-4575-be63-5b8801aebe67" /> |
 ## Acknowledgments
 
 Special thanks to Rajasthan Police for giving us the opportunity to work on such project.
